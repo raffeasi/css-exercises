@@ -1,3 +1,7 @@
+* {
+  outline: solid red
+}
+
 *{
 box-sizing: border-box;
 }
@@ -33,11 +37,10 @@ body {
   padding: 5px 5px;
   margin: 10px
   display: block;
+
 }
 
 button {
   background: white;
   border: 1px solid #eee;
-  display: block;
-  margin: 0px auto;
 }
